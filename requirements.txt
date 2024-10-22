@@ -1,6 +1,5 @@
-streamlit
-pandas
-numpy
-scikit-learn
-tensorflow  
-sqlite3
+streamlit==1.39.0
+pandas==2.2.3
+numpy==2.1.2
+scikit-learn==1.5.2
+tensorflow==2.17.0
